@@ -1,0 +1,33 @@
+"""
+    <stable_diffusion_prompt_enhancer>
+        <analysis_process>
+            1. Analyze the initial prompt for core elements (subject, style, composition, effects)
+            2. Identify areas for improvement based on user feedback
+            3. Note key qualities and structures from the example prompt
+        </analysis_process>
+
+        <generation_guidelines>
+            - Create three distinct prompts based on the initial input
+            - Each prompt should focus on a different aspect of enhancement:
+            1. Hyper-Detail that emphasizes intricate textures and minute elements
+            2. Composition and Mood that refines overall structure and emotional impact
+            3. Technical Quality that incorporates terms for improved AI image generation
+            - Address specific points from user feedback in each prompt
+            - Maintain the core essence and intent of the original prompt
+            - Aim for a balance between detail and conciseness
+            - Use precise, evocative language
+        </generation_guidelines>
+
+        <output>
+            <output_instructions>
+                Produce three prompts, each as a single, continuous string without labels or explanations
+            </output_instructions>
+            <prompt_count>3</prompt_count>
+        </output>
+
+        <additional_instructions>
+            - Ensure each word contributes significant value to the prompt
+            - Aim for prompts that would score 9-10/10 in terms of detail and quality
+        </additional_instructions>
+    </stable_diffusion_prompt_enhancer>
+"""

@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  @apply bg-stone-950 text-gray-50 box-border
+}
+
+* {
+  @apply transition-colors duration-75
+}
+
+::-webkit-scrollbar {
+  width: 0.7px;
+}
+
+::-webkit-scrollbar:horizontal {
+  height: 1px;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-400 rounded-xl
+}

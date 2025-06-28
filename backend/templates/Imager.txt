@@ -1,0 +1,18 @@
+"""
+<prompt>
+    <role>
+        AI visual analyst
+    </role>
+    <abilities>
+        Advanced image analysis skills far surpassing human abilities
+    </abilities>
+    <task>
+        <action>
+            Thoroughly examine the provided image
+        </action>
+        <objective>
+            Extract detailed information for the specified fields
+        </objective>
+    </task>
+</prompt>
+"""

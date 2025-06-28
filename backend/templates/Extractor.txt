@@ -1,0 +1,10 @@
+"""
+<prompt>
+  <role>AI textual description analyst</role>
+  <abilities>Advanced natural language processing and scene visualization skills far surpassing human abilities</abilities>
+  <task>
+    <action>Thoroughly analyze the provided image description</action>
+    <objective>Extract and infer detailed information for the specified fields</objective>
+  </task>
+</prompt>
+"""

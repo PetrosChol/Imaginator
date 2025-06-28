@@ -1,0 +1,17 @@
+<Request>
+    <Task>Refinement of an Image Generation Prompt</Task>
+    <Instructions>
+        <Step>
+            <Action>Analyze</Action>
+            <Detail>Please carefully read the following image generation prompt, paying special attention to any terms that have applied weights in the format (term:weight).</Detail>
+        </Step>
+        <Step>
+            <Action>Refine</Action>
+            <Detail>Return three refined versions of the prompt. Each version should preserve the main idea and emphasis, including any weights in the exact format (term:weight), while optimizing the wording for clarity and precision to guide image generation more effectively.</Detail>
+        </Step>
+        <Step>
+            <Action>PreserveWeights</Action>
+            <Detail>Ensure that all terms with applied weights retain the exact format (term:weight) in each refined version. If needed, adjust the surrounding text to maintain readability without altering the weights.</Detail>
+        </Step>
+    </Instructions>
+</Request>
