@@ -9,7 +9,7 @@ export default function Header({ isDark, toggleTheme }) {
                         <img 
                             src="/logo.png" 
                             alt="Imaginator Logo" 
-                            className="h-8 mr-3"
+                            className="h-10"
                         />
                         <span className="uppercase font-bold font-display text-2xl text-black dark:text-gray-100">
                             IMAGINATOR
