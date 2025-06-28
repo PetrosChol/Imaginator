@@ -89,7 +89,7 @@ export default function SubmitThoughts() {
                         isFocused ? 'border-rose-800 focus:outline-none' : 'border-gray-300 dark:border-gray-600 focus:ring-0'
                     } bg-[#F5F8FE] dark:bg-[#06080B] w-full resize-none dark:placeholder-gray-700 placeholder-gray-400`}
                     value={userIdea}
-                    placeholder="Ace dies by Akainu to protect Luffy"
+                    placeholder="Type your thoughts here..."
                     onChange={(e) => setUserIdea(e.target.value)}
                     onFocus={handleFocus}
                     onBlur={handleBlur}
